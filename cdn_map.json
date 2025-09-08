@@ -204,49 +204,49 @@
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/osd.wav"
   },
   "fobs": {
-    "text": "堂哥或堂弟",
+    "text": "堂哥/堂弟",
     "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/fobs.wav",
     "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/fobs.wav",
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/fobs.wav"
   },
   "fobd": {
-    "text": "堂姐或堂妹",
+    "text": "堂姐/堂妹",
     "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/fobd.wav",
     "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/fobd.wav",
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/fobd.wav"
   },
   "fybs": {
-    "text": "堂哥或堂弟",
+    "text": "堂哥/堂弟",
     "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/fobs.wav",
     "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/fobs.wav",
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/fobs.wav"
   },
   "fybd": {
-    "text": "堂姐或堂妹",
+    "text": "堂姐/堂妹",
     "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/fobd.wav",
     "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/fobd.wav",
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/fobd.wav"
   },
   "foss": {
-    "text": "表哥或表弟",
+    "text": "表哥/表弟",
     "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/foss.wav",
     "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/foss.wav",
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/foss.wav"
   },
   "fosd": {
-    "text": "表姐或表妹",
+    "text": "表姐/表妹",
     "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/fosd.wav",
     "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/fosd.wav",
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/fosd.wav"
   },
   "fyss": {
-    "text": "表哥或表弟",
+    "text": "表哥/表弟",
     "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/foss.wav",
     "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/foss.wav",
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/foss.wav"
   },
   "mysd": {
-    "text": "表姐或表妹",
+    "text": "表姐/表妹",
     "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/fosd.wav",
     "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/fosd.wav",
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/fosd.wav"
@@ -348,43 +348,43 @@
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/fossd.wav"
   },
   "mobs": {
-    "text": "表哥或表弟",
+    "text": "表哥/表弟",
     "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/foss.wav",
     "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/foss.wav",
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/foss.wav"
   },
   "mobd": {
-    "text": "表姐或表妹",
+    "text": "表姐/表妹",
     "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/fosd.wav",
     "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/fosd.wav",
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/fosd.wav"
   },
   "mybs": {
-    "text": "表哥或表弟",
+    "text": "表哥/表弟",
     "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/foss.wav",
     "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/foss.wav",
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/foss.wav"
   },
   "mybd": {
-    "text": "表姐或表妹",
+    "text": "表姐/表妹",
     "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/fosd.wav",
     "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/fosd.wav",
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/fosd.wav"
   },
   "moss": {
-    "text": "表哥或表弟",
+    "text": "表哥/表弟",
     "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/foss.wav",
     "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/foss.wav",
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/foss.wav"
   },
   "mosd": {
-    "text": "表姐或表妹",
+    "text": "表姐/表妹",
     "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/fosd.wav",
     "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/fosd.wav",
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/fosd.wav"
   },
   "myss": {
-    "text": "表哥或表弟",
+    "text": "表哥/表弟",
     "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/foss.wav",
     "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/foss.wav",
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/foss.wav"
@@ -726,7 +726,7 @@
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/mf.wav"
   },
   "ffws": {
-    "text": "叔叔或伯伯",
+    "text": "叔叔/伯伯",
     "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/ffws.wav",
     "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/ffws.wav",
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/ffws.wav"
@@ -738,7 +738,7 @@
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/ffwd.wav"
   },
   "ffhs": {
-    "text": "叔叔或伯伯",
+    "text": "叔叔/伯伯",
     "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/ffws.wav",
     "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/ffws.wav",
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/ffws.wav"
@@ -875,6 +875,18 @@
     "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/ss.wav",
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/ss.wav"
   },
+  "ds": {
+    "text": "外孙",
+    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/ds.wav",
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/ds.wav",
+    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/ds.wav"
+  },
+  "dd": {
+    "text": "外孙女",
+    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dd.wav",
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/dd.wav",
+    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dd.wav"
+  },
   "ddh": {
     "text": "外孙女婿",
     "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/ddh.wav",
@@ -889,9 +901,9 @@
   },
   "dhd": {
     "text": "外孙女",
-    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhd.wav",
-    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/dhd.wav",
-    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhd.wav"
+    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dd.wav",
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/dd.wav",
+    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dd.wav"
   },
   "dhh": {
     "text": "女婿",
@@ -913,9 +925,9 @@
   },
   "dhs": {
     "text": "外孙",
-    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhs.wav",
-    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/dhs.wav",
-    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhs.wav"
+    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/ds.wav",
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/ds.wav",
+    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/ds.wav"
   },
   "dhyb": {
     "text": "小舅子",
@@ -1069,9 +1081,9 @@
   },
   "dwd": {
     "text": "外孙女",
-    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhd.wav",
-    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/dhd.wav",
-    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhd.wav"
+    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dd.wav",
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/dd.wav",
+    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dd.wav"
   },
   "dwf": {
     "text": "亲家公",
@@ -1099,9 +1111,9 @@
   },
   "dws": {
     "text": "外孙",
-    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhs.wav",
-    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/dhs.wav",
-    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhs.wav"
+    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/ds.wav",
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/ds.wav",
+    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/ds.wav"
   },
   "dww": {
     "text": "女儿",
@@ -1477,9 +1489,9 @@
   },
   "hdd": {
     "text": "外孙女",
-    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhd.wav",
-    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/dhd.wav",
-    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhd.wav"
+    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dd.wav",
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/dd.wav",
+    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dd.wav"
   },
   "hdf": {
     "text": "女婿",
@@ -1501,21 +1513,21 @@
   },
   "hdob": {
     "text": "外孙",
-    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhs.wav",
-    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/dhs.wav",
-    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhs.wav"
+    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/ds.wav",
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/ds.wav",
+    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/ds.wav"
   },
   "hdos": {
     "text": "外孙女",
-    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhd.wav",
-    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/dhd.wav",
-    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhd.wav"
+    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dd.wav",
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/dd.wav",
+    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dd.wav"
   },
   "hds": {
     "text": "外孙",
-    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhs.wav",
-    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/dhs.wav",
-    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhs.wav"
+    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/ds.wav",
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/ds.wav",
+    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/ds.wav"
   },
   "hdw": {
     "text": "外孙媳妇",
@@ -1525,15 +1537,15 @@
   },
   "hdyb": {
     "text": "外孙",
-    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhs.wav",
-    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/dhs.wav",
-    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhs.wav"
+    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/ds.wav",
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/ds.wav",
+    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/ds.wav"
   },
   "hdys": {
     "text": "外孙女",
-    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhd.wav",
-    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/dhd.wav",
-    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhd.wav"
+    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dd.wav",
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/dd.wav",
+    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dd.wav"
   },
   "hfd": {
     "text": "姑姑",
@@ -2011,9 +2023,9 @@
   },
   "mdd": {
     "text": "外孙女",
-    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhd.wav",
-    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/dhd.wav",
-    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhd.wav"
+    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dd.wav",
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/dd.wav",
+    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dd.wav"
   },
   "mdh": {
     "text": "女婿",
@@ -2023,21 +2035,21 @@
   },
   "mdob": {
     "text": "外孙",
-    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhs.wav",
-    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/dhs.wav",
-    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhs.wav"
+    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/ds.wav",
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/ds.wav",
+    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/ds.wav"
   },
   "mdos": {
     "text": "外孙女",
-    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhd.wav",
-    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/dhd.wav",
-    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhd.wav"
+    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dd.wav",
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/dd.wav",
+    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dd.wav"
   },
   "mds": {
     "text": "外孙",
-    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhs.wav",
-    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/dhs.wav",
-    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhs.wav"
+    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/ds.wav",
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/ds.wav",
+    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/ds.wav"
   },
   "mdw": {
     "text": "外孙媳",
@@ -2047,15 +2059,15 @@
   },
   "mdyb": {
     "text": "外孙",
-    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhs.wav",
-    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/dhs.wav",
-    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhs.wav"
+    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/ds.wav",
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/ds.wav",
+    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/ds.wav"
   },
   "mdys": {
     "text": "外孙女",
-    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhd.wav",
-    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/dhd.wav",
-    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhd.wav"
+    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dd.wav",
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/dd.wav",
+    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dd.wav"
   },
   "mfd": {
     "text": "妈妈",
@@ -2351,6 +2363,12 @@
     "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/ffwd.wav",
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/ffwd.wav"
   },
+  "obmd": {
+    "text": "姐姐/妹妹",
+    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/obmd.wav",
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/obmd.wav",
+    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/obmd.wav"
+  },
   "obmf": {
     "text": "外公",
     "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/mf.wav",
@@ -2380,6 +2398,12 @@
     "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/fmwd.wav",
     "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/fmwd.wav",
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/fmwd.wav"
+  },
+  "obms": {
+    "text": "哥哥/弟弟",
+    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/obms.wav",
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/obms.wav",
+    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/obms.wav"
   },
   "obmys": {
     "text": "小姨",
@@ -2699,12 +2723,6 @@
     "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/ff.wav",
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/ff.wav"
   },
-  "osfh": {
-    "text": "继父",
-    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/osfh.wav",
-    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/osfh.wav",
-    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/osfh.wav"
-  },
   "osfm": {
     "text": "奶奶",
     "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/fm.wav",
@@ -2783,6 +2801,12 @@
     "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/oshys.wav",
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/oshys.wav"
   },
+  "osmd": {
+    "text": "姐姐/妹妹",
+    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/obmd.wav",
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/obmd.wav",
+    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/obmd.wav"
+  },
   "osmf": {
     "text": "外公",
     "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/mf.wav",
@@ -2812,6 +2836,12 @@
     "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/fmwd.wav",
     "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/fmwd.wav",
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/fmwd.wav"
+  },
+  "osms": {
+    "text": "哥哥/弟弟",
+    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/obms.wav",
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/obms.wav",
+    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/obms.wav"
   },
   "osobd": {
     "text": "侄女",
@@ -3391,9 +3421,9 @@
   },
   "wdd": {
     "text": "外孙女",
-    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhd.wav",
-    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/dhd.wav",
-    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhd.wav"
+    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dd.wav",
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/dd.wav",
+    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dd.wav"
   },
   "wdh": {
     "text": "外孙女婿",
@@ -3403,42 +3433,42 @@
   },
   "wdob": {
     "text": "外孙",
-    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhs.wav",
-    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/dhs.wav",
-    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhs.wav"
+    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/ds.wav",
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/ds.wav",
+    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/ds.wav"
   },
   "wdos": {
     "text": "外孙女",
-    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhd.wav",
-    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/dhd.wav",
-    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhd.wav"
+    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dd.wav",
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/dd.wav",
+    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dd.wav"
   },
   "wds": {
     "text": "外孙",
-    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhs.wav",
-    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/dhs.wav",
-    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhs.wav"
+    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/ds.wav",
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/ds.wav",
+    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/ds.wav"
   },
   "wdyb": {
     "text": "外孙",
-    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhs.wav",
-    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/dhs.wav",
-    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhs.wav"
+    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/ds.wav",
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/ds.wav",
+    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/ds.wav"
   },
   "wdys": {
     "text": "外孙女",
-    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhd.wav",
-    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/dhd.wav",
-    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dhd.wav"
+    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dd.wav",
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/dd.wav",
+    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/dd.wav"
   },
   "wfd": {
-    "text": "大姨子或小姨子",
+    "text": "大姨子/小姨子",
     "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/wfd.wav",
     "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/wfd.wav",
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/wfd.wav"
   },
   "wfs": {
-    "text": "大舅子或小舅子",
+    "text": "大舅子/小舅子",
     "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/wfs.wav",
     "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/wfs.wav",
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/wfs.wav"
@@ -3450,7 +3480,7 @@
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/wfw.wav"
   },
   "wmd": {
-    "text": "大姨子或小姨子",
+    "text": "大姨子/小姨子",
     "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/wfd.wav",
     "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/wfd.wav",
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/wfd.wav"
@@ -3486,7 +3516,7 @@
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/ffos.wav"
   },
   "wms": {
-    "text": "大舅子或小舅子",
+    "text": "大舅子/小舅子",
     "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/wfs.wav",
     "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/wfs.wav",
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/wfs.wav"
@@ -3522,7 +3552,7 @@
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/wfw.wav"
   },
   "wobos": {
-    "text": "大姨子或小姨子",
+    "text": "大姨子/小姨子",
     "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/wfd.wav",
     "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/wfd.wav",
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/wfd.wav"
@@ -3540,13 +3570,13 @@
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/wobw.wav"
   },
   "wobyb": {
-    "text": "大舅子或小舅子",
+    "text": "大舅子/小舅子",
     "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/wfs.wav",
     "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/wfs.wav",
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/wfs.wav"
   },
   "wobys": {
-    "text": "大姨子或小姨子",
+    "text": "大姨子/小姨子",
     "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/wfd.wav",
     "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/wfd.wav",
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/wfd.wav"
@@ -3576,7 +3606,7 @@
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/wfw.wav"
   },
   "wosob": {
-    "text": "大舅子或小舅子",
+    "text": "大舅子/小舅子",
     "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/wfs.wav",
     "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/wfs.wav",
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/wfs.wav"
@@ -3588,13 +3618,13 @@
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/oss.wav"
   },
   "wosyb": {
-    "text": "大舅子或小舅子",
+    "text": "大舅子/小舅子",
     "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/wfs.wav",
     "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/wfs.wav",
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/wfs.wav"
   },
   "wosys": {
-    "text": "大姨子或小姨子",
+    "text": "大姨子/小姨子",
     "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/wfd.wav",
     "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/wfd.wav",
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/wfd.wav"
@@ -3683,6 +3713,12 @@
     "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/ffwd.wav",
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/ffwd.wav"
   },
+  "ybmd": {
+    "text": "姐姐/妹妹",
+    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/obmd.wav",
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/obmd.wav",
+    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/obmd.wav"
+  },
   "ybmf": {
     "text": "外公",
     "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/mf.wav",
@@ -3712,6 +3748,12 @@
     "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/fmwd.wav",
     "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/fmwd.wav",
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/fmwd.wav"
+  },
+  "ybms": {
+    "text": "哥哥/弟弟",
+    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/obms.wav",
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/obms.wav",
+    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/obms.wav"
   },
   "ybmyb": {
     "text": "舅舅",
@@ -3767,6 +3809,12 @@
     "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/ffwd.wav",
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/ffwd.wav"
   },
+  "ysmd": {
+    "text": "姐姐/妹妹",
+    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/obmd.wav",
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/obmd.wav",
+    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/obmd.wav"
+  },
   "ysmf": {
     "text": "外公",
     "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/mf.wav",
@@ -3796,6 +3844,12 @@
     "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/fmwd.wav",
     "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/fmwd.wav",
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/fmwd.wav"
+  },
+  "ysms": {
+    "text": "哥哥/弟弟",
+    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/obms.wav",
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/obms.wav",
+    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/obms.wav"
   },
   "ysmyb": {
     "text": "舅舅",
