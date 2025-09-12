@@ -4318,5 +4318,11 @@
     "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/obmys.wav",
     "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/obmys.wav",
     "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/obmys.wav"
+  },
+  "self": {
+    "text": "自己",
+    "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/sosf.wav",
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/sosf.wav",
+    "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/sosf.wav"
   }
 }

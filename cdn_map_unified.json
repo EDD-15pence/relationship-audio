@@ -4319,6 +4319,12 @@
       "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/obmys.wav",
       "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/obmys.wav",
       "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/obmys.wav"
+    },
+    "self": {
+      "text": "自己",
+      "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/sosf.wav",
+      "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-cn/sosf.wav",
+      "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-cn/sosf.wav"
     }
   },
   "zh-yue": {
@@ -8641,6 +8647,12 @@
       "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-yue/obmys.wav",
       "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-yue/obmys.wav",
       "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-yue/obmys.wav"
+    },
+    "self": {
+      "text": "自己",
+      "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-yue/sosf.wav",
+      "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-yue/sosf.wav",
+      "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-yue/sosf.wav"
     }
   },
   "zh-min": {
@@ -12963,6 +12975,12 @@
       "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-min/obmys.wav",
       "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-min/obmys.wav",
       "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-min/obmys.wav"
+    },
+    "self": {
+      "text": "自己",
+      "raw": "https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-min/sosf.wav",
+      "jsdelivr": "https://cdn.jsdelivr.net/gh/EDD-15pence/relationship-audio@main/assets/audio/zh-min/sosf.wav",
+      "ghfast": "https://ghfast.top/https://raw.githubusercontent.com/EDD-15pence/relationship-audio/main/assets/audio/zh-min/sosf.wav"
     }
   }
 }
